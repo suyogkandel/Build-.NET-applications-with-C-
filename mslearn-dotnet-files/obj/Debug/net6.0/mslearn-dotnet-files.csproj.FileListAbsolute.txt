@@ -1,0 +1,17 @@
+F:\mslearn-dotnet-files\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.exe
+F:\mslearn-dotnet-files\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.deps.json
+F:\mslearn-dotnet-files\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.runtimeconfig.json
+F:\mslearn-dotnet-files\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.dll
+F:\mslearn-dotnet-files\mslearn-dotnet-files\bin\Debug\net6.0\mslearn-dotnet-files.pdb
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.csproj.AssemblyReference.cache
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfo.cs
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.dll
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\refint\mslearn-dotnet-files.dll
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.pdb
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.genruntimeconfig.cache
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\ref\mslearn-dotnet-files.dll
+F:\mslearn-dotnet-files\mslearn-dotnet-files\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\mslearn-dotnet-files\mslearn-dotnet-files\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CopyComplete

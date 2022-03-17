@@ -1,0 +1,15 @@
+F:\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.exe
+F:\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.deps.json
+F:\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.runtimeconfig.json
+F:\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.dll
+F:\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.pdb
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.csproj.AssemblyReference.cache
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.AssemblyInfoInputs.cache
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.AssemblyInfo.cs
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.dll
+F:\DotNetDebugging\obj\Debug\net6.0\refint\DotNetDebugging.dll
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.pdb
+F:\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.genruntimeconfig.cache
+F:\DotNetDebugging\obj\Debug\net6.0\ref\DotNetDebugging.dll
